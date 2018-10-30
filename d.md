@@ -7,6 +7,8 @@ page_sections:
   block: header-3
 - template: hero-banner-w-image
   block: hero-2
+- template: bob
+  name: dave
 published: false
 
 ---
