@@ -5,6 +5,6 @@ is_partial: true
 fields:
 - type: text
   hidden: false
-  label: block
+  label: title
   name: name
   default: bob
